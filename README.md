@@ -1,5 +1,8 @@
 # Convergence Rates of Reinforcement Learning Solution of the Optimal Control Problem
 
+# Todo list:
+1. Change the kernel so that it accepts other types of kernels
+2. Implement the nesting of centers
 
 
 # Git notes:
