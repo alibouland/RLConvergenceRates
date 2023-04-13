@@ -1,1 +1,27 @@
-#RLConvergenceRates
+# Convergence Rates of Reinforcement Learning Solution of the Optimal Control Problem
+
+# Todo list:
+1. Change the kernel so that it accepts other types of kernels
+2. Implement the nesting of centers
+
+
+# Git notes:
+
+Always do the following, when first starting out:
+0. git checkout master
+1. git pull
+2. git checkout local
+3. git merge master
+
+4. ---> Do your work now, when done, go to step 5 <---
+
+5. git add (files you want to add)
+6. git commit -m "message here"
+7. git checkout master
+8. git merge local
+9. git push 
+
+If you want to cancel local changes, but save them for possible re-use later:
+1. git stash
+This command will reset changes to all files, but also saves them in case you need them later. if you need the files later you can always do
+2. git stash pop
